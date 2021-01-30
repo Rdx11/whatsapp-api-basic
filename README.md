@@ -11,4 +11,4 @@ npm install qrcode-terminal
 ### runing
 ```
 npm run start
-```
+``` 
