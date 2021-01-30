@@ -3,7 +3,7 @@ A WhatsApp API client that connects through the WhatsApp Web browser app
 
 ### installation
 ```
-git clone https://github.com/fate-penguin-code/whatsapp-api-basic.git
+git clone git@github.com:Rdx11/whatsapp-api-basic.git (using ssh)
 cd whatsapp-api-basic
 npm i whatsapp-web.js
 npm install qrcode-terminal
