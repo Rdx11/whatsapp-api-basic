@@ -8,7 +8,7 @@ cd whatsapp-api-basic
 npm i whatsapp-web.js
 npm install qrcode-terminal
 ```
-### runing
+### running
 ```
 npm run start
 ``` 
